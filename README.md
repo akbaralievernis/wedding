@@ -759,4 +759,3 @@ END:VCALENDAR`;
     </script>
 </body>
 </html>
-```
