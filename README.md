@@ -68,7 +68,7 @@
       <div class="cards">
         <div class="card" data-aos="zoom-in" data-aos-delay="100">📅<strong>Дата</strong><span>12 ноября 2025</span></div>
         <div class="card" data-aos="zoom-in" data-aos-delay="200">🕕<strong>Время</strong><span>16:00</span></div>
-        <div class="card" data-aos="zoom-in" data-aos-delay="300">📍<strong>Место</strong><span>Ресторан "Ала-Тоок", г. Ош</span></div>
+        <div class="card" data-aos="zoom-in" data-aos-delay="300">📍<strong>Место</strong><span>Ресторан "Олигарх", г. Ош</span></div>
       </div>
     </section>
     <section id="gallery" class="section gallery" data-aos="zoom-in">
