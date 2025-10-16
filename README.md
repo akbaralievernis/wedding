@@ -58,7 +58,7 @@
         <div class="info-card" data-aos="zoom-in" data-aos-delay="300">
           <span class="info-icon">📍</span>
           <div class="info-label">Место</div>
-          <div class="info-value">Ресторан "Ала-Тоок"<br>г. Ош</div>
+          <div class="info-value">Ресторан "Ала-Тоо"<br>г. Ош</div>
         </div>
       </div>
     </section>
