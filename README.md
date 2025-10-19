@@ -7,7 +7,7 @@
   <link rel="icon" href="favicon.ico" />
   <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Dancing+Script:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600&family=Lora:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
   <!-- Animated Background -->
@@ -101,7 +101,7 @@
         <div class="cards">
           <div class="card" data-aos="zoom-in" data-aos-delay="100">📅<strong data-i18n="date_label">Дата</strong><span data-i18n="date_value">12 ноября 2025</span></div>
           <div class="card" data-aos="zoom-in" data-aos-delay="200">🕕<strong data-i18n="time_label">Время</strong><span data-i18n="time_value">16:00</span></div>
-          <div class="card" data-aos="zoom-in" data-aos-delay="300">📍<strong data-i18n="place_label">Место</strong><span data-i18n="place_value">Ресторан "Ала-Тоо", г. Ош</span></div>
+          <div class="card" data-aos="zoom-in" data-aos-delay="300">📍<strong data-i18n="place_label">Место</strong><span data-i18n="place_value">Ресторан "Олигарх", г. Ош</span></div>
         </div>
       </div>
     </section>
@@ -164,7 +164,7 @@
         <div class="map-container">
           <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3033.1515796129434!2d72.76652279999999!3d40.51614059999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38bdac5d7cdf8579%3A0x3414aba134ac8869!2z0J7Qu9C40LPQsNGA0YUg0YDQtdGB0YLQvtGA0LDQvdGL!5e0!3m2!1sru!2skg!4v1760626730071!5m2!1sru!2skg" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
-        <p class="map-address" data-i18n="map_address">📍 Ресторан "Ала-Тоо", г. Ош, Кыргызстан</p>
+        <p class="map-address" data-i18n="map_address">📍 Ресторан "Олигарх", г. Ош, Кыргызстан</p>
       </div>
     </section>
   </main>
