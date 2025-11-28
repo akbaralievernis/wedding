@@ -3,7 +3,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <meta name="description" content="Свадебное приглашение - Вариант 1. Современная классика для Айдана и Бекзат. Wedding.KG - создайте свое идеальное приглашение." />
-  <title data-i18n="title">Вариант 1 — Современная классика — Айдана & Бекзат</title>
+  <title data-i18n="title">Вариант 1 — Современная классика — Мээримгул  & Максат</title>
   <link rel="icon" href="favicon.ico" />
   <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Dancing+Script:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600&family=Lora:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
@@ -34,7 +34,7 @@
         <div class="controls">
           <div class="lang-switch">
             <button class="lang-btn active" data-lang="ru">🇷🇺</button>
-            <button class="lang-btn" data-lang="en">en</button>
+            <button class="lang-btn" data-lang="gb">en</button>
             <button class="lang-btn" data-lang="kg">🇰🇬</button>
           </div>
           <button class="cssbuttons-io" title="Переключить тему">
@@ -68,8 +68,8 @@
     <section id="hero" class="hero" data-aos="fade-down">
       <div class="container">
         <div class="hero-inner">
-          <h1 class="names" data-i18n="names">Айдана <span>&</span> Бекзат</h1>
-          <p class="subtitle" data-i18n="subtitle">Мы женимся — 12 ноября 2025</p>
+          <h1 class="names" data-i18n="names">Мээримгул <span>&</span> Максат</h1>
+          <p class="subtitle" data-i18n="subtitle">Мы женимся — 8 декабря 2025</p>
           <div class="countdown">
             <div class="item"><div id="days">00</div><small data-i18n="days">Дней</small></div>
             <div class="item"><div id="hours">00</div><small data-i18n="hours">Часов</small></div>
@@ -91,7 +91,7 @@
           <div class="quote">
             <p data-i18n="quote">"Любовь — это не то, что можно найти, а то, что создается вместе"</p>
           </div>
-          <div class="couple-names" data-i18n="couple">Айдана & Бекзат</div>
+          <div class="couple-names" data-i18n="couple">Мээримгул & Максат</div>
         </div>
       </div>
     </section>
@@ -99,9 +99,9 @@
       <div class="container">
         <h2 data-i18n="information">Информация</h2>
         <div class="cards">
-          <div class="card" data-aos="zoom-in" data-aos-delay="100">📅<strong data-i18n="date_label">Дата</strong><span data-i18n="date_value">12 ноября 2025</span></div>
+          <div class="card" data-aos="zoom-in" data-aos-delay="100">📅<strong data-i18n="date_label">Дата</strong><span data-i18n="date_value">8 декабря 2025</span></div>
           <div class="card" data-aos="zoom-in" data-aos-delay="200">🕕<strong data-i18n="time_label">Время</strong><span data-i18n="time_value">16:00</span></div>
-          <div class="card" data-aos="zoom-in" data-aos-delay="300">📍<strong data-i18n="place_label">Место</strong><span data-i18n="place_value">Ресторан "Олигарх", г. Ош</span></div>
+          <div class="card" data-aos="zoom-in" data-aos-delay="300">📍<strong data-i18n="place_label">Место</strong><span data-i18n="place_value">Ресторан "Чемпион Арена", г. Кызыл-Кия</span></div>
         </div>
       </div>
     </section>
